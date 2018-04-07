@@ -1,0 +1,13 @@
+error solving links for my movie cms  : 
+
+- https://stackoverflow.com/questions/35696373/php-mysql-undefined-variable-the-post-id-and-warning-mysqli-fetch-assoc-e
+- https://www.phpgang.com/how-to-use-mysqli_connect-in-php_336.html
+- https://www.allphptricks.com/simple-user-registration-login-script-in-php-and-mysqli/
+- https://cmsdk.com/mysql/any-option-to-implement-search-option-in-dropdown-list-generated-dynamically-from-mysql-amp-php.html
+- https://stackoverflow.com/questions/42577652/why-is-my-insert-query-not-working
+- https://pastebin.com/GfB0Jx23
+- https://stackoverflow.com/questions/41947495/editing-a-database-in-php-with-mysqli
+- https://pastebin.com/9P5kYrSh
+- https://stackoverflow.com/questions/41370994/while-loop-on-php-doesnt-work-why
+- https://www.allphptricks.com/insert-view-edit-and-delete-record-from-database-using-php-and-mysqli/
+- https://pastebin.com/CpdXfR3R
